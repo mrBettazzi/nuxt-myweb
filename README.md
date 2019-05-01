@@ -1,6 +1,6 @@
 # nuxt-myweb
 
-Nuxt is an extra tool working on top of Vue.js.
+Nuxt is a tool working on top of Vue.js.
 It allows creation of Universal Vue Apps : Client-side apps (*like all Vue apps are*) that can enforce Server-Side-Rendering.
 
 > This walkthrough resumes the [Academind Nuxt Introduction by Max Shwarzmueller](https://www.youtube.com/watch?v=nteDXuqBfn0&app=desktop), published 8 Feb 2018
@@ -29,20 +29,19 @@ $ cd <my-project>
 $ npm install # Or yarn install
 $ npm run dev
 ```
-* To build for production and launch server :
-```bash
-$ npm run build
-$ npm start
-```
 * Check directory structure, and in particular the *./pages* folder. 
-* The `index.vue` file here starts the show at `http://localhost:3000`.
-* Every `<name>.vue` file here represents a **route** and can be reached at `http://localhost:3000/name`.
-* directory hierarchy is matched in the URI. Being `index.vue` the **default route**, A `./pages/<name>.vue` behaves the same as `./pages/<name>/index.vue`.
+* The `./pages/index.vue` file here starts the show at `http://localhost:3000`.
+* Every `./pages/<name>.vue` file in Nuxt represents a **route** and can be reached at `http://localhost:3000/name`.
+* directory hierarchy is matched in the URI. Being `index.vue` the **default route**, a `./pages/<name>.vue` behaves the same as `./pages/<name>/index.vue`.
 * In every directory Nuxt puts a `README.md` file
 
 * To generate a static project :
 ```bash
 $ npm run generate
 ```
-
+* To build for production and launch server :
+```bash
+$ npm run build
+$ npm start
+```
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
