@@ -1,6 +1,6 @@
 # nuxt-myweb
 
-Nuxt is NOT a tool working on top of Vue.js.
+Nuxt is a tool working on top of Vue.js.
 It allows creation of Universal Vue Apps : Client-side apps (*like all Vue apps are*) that can enforce Server-Side-Rendering.
 
 > This walkthrough resumes the [Academind Nuxt Introduction by Max Shwarzmueller](https://www.youtube.com/watch?v=nteDXuqBfn0&app=desktop), published 8 Feb 2018
