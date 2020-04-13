@@ -13,19 +13,19 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.4.1",
-    "@nuxtjs/bulma": "^1.2.0",
-    "@nuxtjs/dotenv": "^1.1.1",
-    "ajv": "^6.5.3",
-    "body-parser": "^1.18.3",
-    "bootstrap": "^4.1.3",
-    "cors": "^2.8.4",
-    "express": "^4.16.3",
-    "jquery": "^3.4.0",
-    "mongoose": "^5.5.5",
-    "nodemon": "^1.18.3",
-    "nuxt": "^2.6.3",
-    "popper.js": "^1.14.4"
+    "@nuxtjs/axios": "^5.9.7",
+    "@nuxtjs/bulma": "^1.2.7",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "ajv": "^6.12.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "mongoose": "^5.9.9",
+    "nodemon": "^1.19.4",
+    "nuxt": "^2.12.2",
+    "popper.js": "^1.16.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
