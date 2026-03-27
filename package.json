@@ -23,15 +23,15 @@
     "express": "^4.22.1",
     "jquery": "^3.5.1",
     "mongoose": "^5.13.23",
-    "nodemon": "^3.1.11",
+    "nodemon": "^3.1.14",
     "nuxt": "^4.2.2",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^9.39.2",
+    "eslint": "^10.1.0",
     "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0"
   }
 }
