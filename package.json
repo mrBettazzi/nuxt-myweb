@@ -24,7 +24,7 @@
     "jquery": "^3.5.1",
     "mongoose": "^6.13.9",
     "nodemon": "^3.1.14",
-    "nuxt": "^4.4.6",
+    "nuxt": "^4.4.7",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
