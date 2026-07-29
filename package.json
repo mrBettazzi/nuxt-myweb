@@ -22,7 +22,7 @@
     "cors": "^2.8.5",
     "express": "^4.22.2",
     "jquery": "^3.5.1",
-    "mongoose": "^6.13.9",
+    "mongoose": "^6.13.10",
     "nodemon": "^3.1.14",
     "nuxt": "^4.4.7",
     "popper.js": "^1.16.1"
